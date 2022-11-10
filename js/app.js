@@ -6,6 +6,8 @@ function timesFive(num1, num2){
 }
 //Console log for the timeFive function
 console.log(timesFive(10,10));
+console.log(timesFive(20,20));
+console.log(timesFive(30,30));
 
 //function for determining length of a string
 function stringCount(words){
@@ -19,6 +21,10 @@ function stringCount(words){
     }
     
 }
+
+console.log(stringCount("This"))
+console.log(stringCount("how many characters"))
+console.log(stringCount("Be"))
 
 
 
